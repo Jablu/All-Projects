@@ -1,0 +1,6 @@
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\bin\Debug\EntitiesLibrary.dll
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\bin\Debug\EntitiesLibrary.pdb
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\obj\Debug\EntitiesLibrary.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\obj\Debug\EntitiesLibrary.csproj.CoreCompileInputs.cache
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\obj\Debug\EntitiesLibrary.dll
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\EntitiesLibrary\obj\Debug\EntitiesLibrary.pdb

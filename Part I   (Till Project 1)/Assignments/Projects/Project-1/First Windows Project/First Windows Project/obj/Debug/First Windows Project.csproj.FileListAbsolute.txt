@@ -1,0 +1,11 @@
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\bin\Debug\First Windows Project.exe.config
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\bin\Debug\First Windows Project.exe
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\bin\Debug\First Windows Project.pdb
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First Windows Project.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First_Windows_Project.Form1.resources
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First_Windows_Project.Properties.Resources.resources
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First Windows Project.csproj.GenerateResource.Cache
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First Windows Project.csproj.CoreCompileInputs.cache
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First Windows Project.exe
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First Windows Project.pdb
+D:\Abinash Mishra\Projects\Project-1\First Windows Project\First Windows Project\obj\Debug\First_Windows_Project.Navigator.resources

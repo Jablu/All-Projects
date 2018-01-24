@@ -1,0 +1,9 @@
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\bin\Debug\LinQModule.exe.config
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\bin\Debug\LinQModule.exe
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\bin\Debug\LinQModule.pdb
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\bin\Debug\EntitiesLibrary.dll
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\bin\Debug\EntitiesLibrary.pdb
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\obj\Debug\LinQModule.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\obj\Debug\LinQModule.csproj.CoreCompileInputs.cache
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\obj\Debug\LinQModule.exe
+D:\Abinash Mishra\Part III (Till Project 3)\LinQ\2 Advance\LinQ\LinQModule\obj\Debug\LinQModule.pdb

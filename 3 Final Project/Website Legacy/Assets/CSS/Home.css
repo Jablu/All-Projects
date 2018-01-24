@@ -1,0 +1,93 @@
+﻿body {
+    background-color: #eeeeee;
+    background-image: url('../Images/White-Background-1.jpg');
+    margin:0;
+    padding:0;
+}
+
+.mainForm {
+    position: fixed;
+    background-color: white;
+    height: 95%;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    width: 500px;
+    vertical-align: middle;
+    display: inline;
+    right: 0px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.mainToolBar {
+    height:42px;
+    /*box-shadow: 0 1px 2px rgba(0,0,0,0.16), 0 1px 2px rgba(0,0,0,0.23);*/
+}
+.mainTextBar {
+    height: 48px;
+    background: #F7630C;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.16), 0 2px 4px rgba(0,0,0,0.23);
+}
+.toolBarButton {
+    height: 24px;
+    width: 24px;
+    vertical-align: central;
+    margin: auto;
+    right: 0px;
+    float: right;
+    margin-top: 9px;
+    margin-right: 9px;
+}
+.toolBarButton2 {
+    height: 24px;
+    width: 24px;
+    vertical-align: central;
+    margin: auto;
+    right: 0px;
+    float: left;
+    margin-top: 9px;
+    margin-right: 9px;
+    margin-left:9px;
+}
+.toolBarText {
+    height: 32px;
+    vertical-align: central;
+    right: 0px;
+    color: white;
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 12px;
+    float: left;
+}
+.mainBody{
+
+    /*background-color:#eeeeee;*/
+    min-height:90%;
+    
+
+}
+.mainCard {
+
+    margin-bottom:2px;
+    margin-left:8px;
+    margin-right:8px;
+    margin-top:8px;
+    min-height:100px;
+    background-color: white;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.16), 0 1px 2px rgba(0,0,0,0.23);
+
+}
+/*#scroll-div::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
+#scroll-div::-webkit-scrollbar {
+    width: 6px;
+    background-color: #F5F5F5;
+}
+
+#scroll-div::-webkit-scrollbar-thumb {
+    background-color: #000000;
+}*/

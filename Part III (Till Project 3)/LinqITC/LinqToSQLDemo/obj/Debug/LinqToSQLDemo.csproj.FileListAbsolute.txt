@@ -1,0 +1,8 @@
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.exe.config
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\bin\Debug\LinqToSQLDemo.pdb
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.csprojResolveAssemblyReference.cache
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\obj\Debug\LinqToSQLDemo.pdb
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\bin\Debug\EntitiesLib.dll
+E:\ITCDotnetPrjs\LinqPrjs\LinqToSQLDemo\bin\Debug\EntitiesLib.pdb

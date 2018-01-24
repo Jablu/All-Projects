@@ -1,0 +1,10 @@
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\bin\Debug\MoveBox.exe.config
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\bin\Debug\MoveBox.exe
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\bin\Debug\MoveBox.pdb
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.csprojResolveAssemblyReference.cache
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.Form1.resources
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.Properties.Resources.resources
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.csproj.GenerateResource.Cache
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.csproj.CoreCompileInputs.cache
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.exe
+D:\Abinash Mishra\Assignments\1\MoveBox\MoveBox\obj\Debug\MoveBox.pdb

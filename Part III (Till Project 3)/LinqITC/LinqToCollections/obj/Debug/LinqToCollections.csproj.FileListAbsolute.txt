@@ -1,0 +1,6 @@
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\bin\Debug\LinqToCollections.exe.config
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\bin\Debug\LinqToCollections.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\bin\Debug\LinqToCollections.pdb
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\obj\Debug\LinqToCollections.csprojResolveAssemblyReference.cache
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\obj\Debug\LinqToCollections.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqToCollections\obj\Debug\LinqToCollections.pdb

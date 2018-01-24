@@ -1,0 +1,78 @@
+﻿body {
+    background-color: #eeeeee;
+    background-image: url('../Images/White-Background-1.jpg');
+}
+.mainForm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    background-color: white;
+    min-height: 420px;
+    min-width: 420px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.iconSignIn {
+    margin-left: 36px;
+    margin-top: 36px
+}
+.textSignIn {
+    margin-top:48px;
+    font-family: 'Century Gothic';
+    margin-left: 48px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+.textSignInDetails {
+    margin-top: 0px;
+    font-family: 'Century Gothic';
+    margin-left: 48px;
+    font-size: 14px;
+    font-weight: 600;
+    
+}
+.unameSignIn {
+    margin-bottom: 0px;
+    margin-top: 15px;
+    margin-left: 48px;
+    margin-right: 48px;
+    width: 360px;
+    height: 36px;
+    padding-left: 10px;
+    font-family: 'Century Gothic';
+}
+.gobtnSignIn {
+    margin-bottom: 0px;
+    margin-top: 15px;
+    margin-left: 48px;
+    margin-right: 48px;
+    width: 370px;
+    height: 42px;
+    padding-left: 10px;
+    border: none;
+    background-color: #242466;
+    color: white;
+    font-size: 18px;
+    font-family: 'Century Gothic';
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../Font/Roboto-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../Font/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../Font/Roboto-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('../Font/Roboto-Thin.ttf') format('truetype');
+}

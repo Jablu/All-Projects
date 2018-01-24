@@ -1,0 +1,6 @@
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\bin\Debug\LinqDemos.exe.config
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\bin\Debug\LinqDemos.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\bin\Debug\LinqDemos.pdb
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\obj\Debug\LinqDemos.csprojResolveAssemblyReference.cache
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\obj\Debug\LinqDemos.exe
+E:\ITCDotnetPrjs\LinqPrjs\LinqDemos\obj\Debug\LinqDemos.pdb
